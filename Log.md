@@ -5,7 +5,7 @@
 * Crowd sourcing photos for a building, how facebook or instagram or flickr understand certain buildings. Similarily how academic journals understand the same ones.
 * Creating a eiggn face for buildings and then applying that to a conceptual model like an ice cube.
 
-! [IMAGE] (images/screenshotofcoding.png)
+![IMAGE] (images/screenshotofcoding.png)
 
 ####A type of cheat sheet
 #Title
@@ -23,7 +23,7 @@ List
 
 [Link] (https//:www.umn.edu)
 
-! [IMAGE] (image/classroom.jpg)
+![IMAGE] (image/classroom.jpg)
 
 *Italics*
 **Bold**
