@@ -1,5 +1,6 @@
 ##Catalyst Day 1
 ####Initial Ideas
+List
 *Thresholds- analyzing typologies of a city, whether scale, materiality, reflectivity, etc.
 *Perceptual contours- analyze for patterns, glitches/intentially/confusing photograhmetry
 *Crowd sourcing photos for a building, how facebook or instagram or flickr understand certain buildings. Similarily how academic journals understand the same ones.
