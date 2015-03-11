@@ -1,7 +1,22 @@
+##Catalyst Day 3
+
+3 ways to proceed
+* All model same space- entrance
+	* Pillsbury Hall and the Rec Center, I did 2 sets on both- one of approach and one walking by
+* Each pursue own direction
+* Replace our human bias with a bot
+
+Thoughts
+* The way bodily movement and placement can affect computer vision
+* Frustrating in what the computer dismisses when pictures are not taken systematicly
+* Doesn't work to go back and add photos to a set- interesting in humans understanding building off previous experiences, cv just and solo understanding
+* Even as abstract these outputs are- none are just pure abstraction but fundementally based on space and our actual understanding
+
+
 ##Catalyst Day 2
 * CV way of seeing soooo different- not just a better way we see. Not wrong but difficult to understand and find the value. 
 * manual vs automation
-* * when buildings look like renderings- buildings "automating" desgin process
+* when buildings look like renderings- buildings "automating" desgin process
 * degree of mediation between manual and automation or cv and human
 So what's the question:
 * Is it about wrappers
@@ -10,6 +25,7 @@ So what's the question:
 * How the new aesthetic can become more organic instead rational or discrete
 
 ####Mediating CV/Automated and Human/Manual
+Thinking in certain ways in order to mediate human understanding and computer understanding, or bike understanding. 
 loading1= loading dock- 1 picture every 6 steps all the way around
 loading2= loading dock- whatever I wanted
 loading3= loading dock- like a bike- all pictures just on path and limited number
