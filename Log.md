@@ -1,4 +1,7 @@
 ##Catalyst Day 3
+Human computer vision as a collage
+It confuses the boundries
+Human computer seems to become organic
 
 3 ways to proceed
 * All model same space- entrance
