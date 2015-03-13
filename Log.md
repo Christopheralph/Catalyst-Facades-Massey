@@ -1,3 +1,46 @@
+##Catalyst Day 4
+Exploring the form of spacial agency- formally expressing spacial agency
+We started talking about similar affordances/agencies instead of similar spaces
+Affordances (Actions) of facades
+What actions do facades afford
+* Barriers
+	* Shelter
+	* Separating
+	* As framing (leading vs complete openess)
+* Movement along
+* Movement through
+* CV also negates actual/physical affordances through creating new afforadances 
+* CV can reveal and make apparent these affordances
+
+What's Sticking
+* Ways of representing different traversals of the same space
+--- expressing traversals
+* Abstract but concrete "actions", designing for affordances- how facades allow for these affordances- how cv and human understand these
+--- design for affordances
+--- expressing how humans and computers understand space together
+--- the affordances of space (not just objects)
+* Facade as sequence and cv vision
+* Movement as form of the space
+* Blurring bounderies between nature and artifice
+
+So... (FOCUS)
+* traversal (Dustin, Sam, George)
+* affordance (of space) (Shane, Chris)
+* blur + equality (Erika, Jeremey)
+* duplication
+
+Issues
+* Why build a physical model?
+* Spectrum of representation + speculation
+* What (practical + conceptual) insights into facades does cv can give us
+* Decimations vs drippiness- organic vs analytical
+* manual and automated
+* What role does movement play in the process? To what extent are the models about movement? About vision?
+
+Important Commands
+* ExtractUVmesh- flattens mesh
+
+
 ##Catalyst Day 3
 Human computer vision as a collage
 It confuses the boundries
@@ -19,7 +62,7 @@ Thoughts
 ##Catalyst Day 2
 * CV way of seeing soooo different- not just a better way we see. Not wrong but difficult to understand and find the value. 
 * manual vs automation
-* when buildings look like renderings- buildings "automating" desgin process
+* when buildings look like renderings- buildings "automating" design process
 * degree of mediation between manual and automation or cv and human
 So what's the question:
 * Is it about wrappers
